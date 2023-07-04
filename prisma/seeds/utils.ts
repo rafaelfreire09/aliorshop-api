@@ -1,0 +1,51 @@
+export const ProductList = [
+  {
+    id: 1,
+    title: 'Tomate',
+    image: 'http://emporiosilvestre.com.br/imagens/informacoes/organicos-1.jpg',
+    price: 10.00,
+    description: ``,
+  },
+  {
+    id: 2,
+    title: 'Berinjela',
+    image: 'http://emporiosilvestre.com.br/imagens/informacoes/organicos-1.jpg',
+    price: 7.00,
+    description: ``,
+  },
+  {
+    id: 3,
+    title: 'Batata Doce',
+    image: 'http://emporiosilvestre.com.br/imagens/informacoes/organicos-1.jpg',
+    price: 3.00,
+    description: ``,
+  },
+  {
+    id: 4,
+    title: 'Batata',
+    image: 'http://emporiosilvestre.com.br/imagens/informacoes/organicos-1.jpg',
+    price: 2.00,
+    description: ``,
+  },
+  {
+    id: 5,
+    title: 'Alface',
+    image: 'http://emporiosilvestre.com.br/imagens/informacoes/organicos-1.jpg',
+    price: 1.50,
+    description: ``,
+  },
+  {
+    id: 6,
+    title: 'Cebola',
+    image: 'http://emporiosilvestre.com.br/imagens/informacoes/organicos-1.jpg',
+    price: 3.20,
+    description: ``,
+  },
+  {
+    id: 7,
+    title: 'Pimentão',
+    image: 'http://emporiosilvestre.com.br/imagens/informacoes/organicos-1.jpg',
+    price: 5.50,
+    description: ``,
+  },
+];
